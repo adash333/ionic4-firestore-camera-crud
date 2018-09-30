@@ -1,5 +1,7 @@
 {
   "name": "ionic4-firestore-camera-crud",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
